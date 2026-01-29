@@ -1,7 +1,11 @@
-## Hi there 👋. I'm John Shaheen.
+## 👋 Hi there. I'm John Shaheen.
 
+I'm the R&D Manager of the Brooktrout Team at Enghouse Interactive.
 
+🔭 Brooktrout SR140 Fax over IP (FoIP) software
+🔭 Brooktrout TR1034 Intelligent Fax Boards
 
+https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-solutions/
 
 <!--
 **johnshaheen/johnshaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
