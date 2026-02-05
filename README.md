@@ -1,11 +1,19 @@
 ## 👋 Hi there. I'm John Shaheen.
 
-I'm the R&D Manager of the Brooktrout Team at Enghouse Interactive.
+**Manager, R&D** | Inventor  | Problem Solver
 
 🔭 Brooktrout SR140 Fax over IP (FoIP) software
 🔭 Brooktrout TR1034 Intelligent Fax Boards
 
 https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-solutions/
+
+
+
+### 🧪 Patents 
+Co‑inventor on the following U.S. patents
+- **US8780386B2**  
+- **US8896875B2**  
+- **US8891138B2**
 
 <!--
 **johnshaheen/johnshaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 Connect  
+Always open to collaboration and technical discussions.
+``
