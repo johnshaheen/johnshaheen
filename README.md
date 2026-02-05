@@ -1,16 +1,20 @@
 ## 👋 Hi there. I'm John Shaheen.
 
-**Manager, R&D** | Inventor  | Problem Solver
+**Techinal Manager, R&D** | Inventor | Problem Solver
 
 🔭 Brooktrout SR140 Fax over IP (FoIP) software
 🔭 Brooktrout TR1034 Intelligent Fax Boards
 
 https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-solutions/
 
+🌱 I’m currently learning ...
+- Prompt engineering
+- agent-skills
+- Docker / Containers
+- Security / OSINT Tools
+- AWS 
 
-
-### 🧪 Patents 
-Co‑inventor on the following U.S. patents
+🧪 Co‑inventor on the following U.S. patents ...
 - **US8780386B2**  
 - **US8896875B2**  
 - **US8891138B2**
@@ -32,4 +36,3 @@ Here are some ideas to get you started:
 
 ### 📫 Connect  
 Always open to collaboration and technical discussions.
-``
