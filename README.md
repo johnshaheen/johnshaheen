@@ -13,7 +13,7 @@ https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-so
 - Docker / Containers
 - Security / OSINT Tools / Threat Modeling
 - AWS
-- git
+- git / GitHub Advanced Security
 
 🧪 Co‑inventor on the following U.S. patents ...
 - **US8780386B2**  
