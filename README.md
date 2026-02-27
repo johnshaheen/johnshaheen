@@ -10,10 +10,10 @@ https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-so
 🌱 I’m currently learning ...
 - Prompt engineering
 - agent-skills
+- GitHub Advanced Security / CodeQL
 - Docker / Containers
 - Security / OSINT Tools / Threat Modeling
 - AWS
-- git / GitHub Advanced Security
 
 🧪 Co‑inventor on the following U.S. patents ...
 - **US8780386B2**  
@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 
 ### 📫 Connect  
 Always open to collaboration and technical discussions.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=johnshaheen.johnshaheen)
