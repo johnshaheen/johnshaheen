@@ -14,6 +14,7 @@ https://www.enghouseinteractive.com/products/enabling-technologies/fax-server-so
 - Security / OSINT Tools / Threat Modeling
 - AWS / Azure
 - Docker / Containers
+- Jenkins / Groovy 
 
 🧪 Co‑inventor on the following U.S. patents ...
 - **US8780386B2**  
