@@ -1,7 +1,7 @@
 ```mermaid
-info
+graph TD
+    A --> B
 ```
-
 
 ## 👋 Hi there. I'm John Shaheen.
 
