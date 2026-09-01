@@ -1,4 +1,6 @@
-```mermaid\ninfo\n```
+```mermaid
+info
+```
 
 ## 👋 Hi there. I'm John Shaheen.
 
