@@ -1,8 +1,3 @@
-```mermaid
-graph TD
-    A --> B
-```
-
 ## 👋 Hi there. I'm John Shaheen.
 
 **Technical Manager, R&D** | Problem Solver | Inventor
