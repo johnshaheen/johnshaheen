@@ -2,6 +2,7 @@
 info
 ```
 
+
 ## 👋 Hi there. I'm John Shaheen.
 
 **Technical Manager, R&D** | Problem Solver | Inventor
