@@ -1,3 +1,5 @@
+```mermaid\ninfo\n```
+
 ## 👋 Hi there. I'm John Shaheen.
 
 **Technical Manager, R&D** | Problem Solver | Inventor
